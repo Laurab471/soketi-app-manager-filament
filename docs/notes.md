@@ -6,3 +6,4 @@ Notes and usage details for soketi-app-manager-filament.
 - clarify the setup steps
 - link the usage section
 - link the usage section
+- link the usage section
