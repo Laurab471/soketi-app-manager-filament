@@ -67,3 +67,4 @@ Manage soketi websocket server and apps with ease.
 // clarify the control flow
 // clarify the control flow
 // handle the edge case from the last release
+// guard against empty input
